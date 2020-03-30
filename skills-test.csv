@@ -1,1 +1,36 @@
 Text
+"['\n', <div class=""skills-statement"">
+<h2 class=""skills-h2"">
+            My ambition is to become a DevOps Engineer - I really enjoy
+            maintaining and automating systems. My current role has just
+            progressed more into a DevOps role and I'm learning a lot!
+          </h2>
+<div class=""skills-mobile-img"">
+<img src=""static/img/devops1.png""/>
+</div>
+<div class=""skills-desktop-img"">
+<img src=""static/img/devops.jpg""/>
+</div>
+</div>, '\n', <div class=""skills-statement"">
+<h1 class=""skills-h2"">
+            I'm currently learning Python - I try to use this daily to create
+            scripts and I've also used Flask to build this websites backend.
+          </h1>
+<div class=""skills-mobile-img"">
+<img src=""static/img/python2.jpg""/>
+</div>
+<div class=""skills-desktop-img"">
+<img src=""static/img/python.jpg""/>
+</div>
+</div>, '\n', <div class=""skills-statement"">
+<h1 class=""skills-h2"">
+            I've also started learning Ansible and Github Actions! Which is
+            going to be implemented into the workflow at my current job.
+          </h1>
+<div class=""skills-mobile-img"">
+<img src=""static/img/ansible1.png""/>
+</div>
+<div class=""skills-desktop-img"">
+<img src=""static/img/actions1.png""/>
+</div>
+</div>, '\n']"
