@@ -17,7 +17,7 @@ soup = BeautifulSoup(page.text, 'html.parser')
 nav_links = soup.find(class_='pagination-component pagination-bottom')
 nav_links.decompose()
 
-team_score = soup.select(class_='results')[:50]
+team_score = soup.find(class_='results')
 team_score_items = team_score.find_all('div')
 
 for team_score in team_score_items:
